@@ -5,7 +5,7 @@ To run the program:
 - download the code file
 - unzip it
 - pip install -r requirements.txt
-- streamlit run main.py
+- streamlit run main.py (if this is not working try --> "python3 -m streamlit run main.py --server.maxUploadSize=500")
 
 if u want ur face to be recognized add ur photo with ur_name.jpg in image folder.
 
