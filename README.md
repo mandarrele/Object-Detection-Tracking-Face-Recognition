@@ -1,5 +1,14 @@
 # Object-Detection-Tracking-Face-Recognition
-In This project, I have created a streamlit application to do vehicle tracking, PPE detection, person detection and face recognition
+## In This project, I have created a streamlit application to do vehicle tracking, PPE detection, person detection and face recognition.
+
+To run the program:
+- download the code file
+- unzip it
+- pip install -r requirements.txt
+- streamlit run main.py
+
+if u want ur face to be recognized add ur photo with ur_name.jpg in image folder.
+
 <img width="1793" alt="Screenshot 2024-05-24 at 15 32 08" src="https://github.com/mandarrele/Object-Detection-Tracking-Face-Recognition/assets/92326680/03c3ed99-1049-47b8-b45c-a40a3ee90392">
 <img width="1798" alt="Screenshot 2024-05-24 at 15 32 21" src="https://github.com/mandarrele/Object-Detection-Tracking-Face-Recognition/assets/92326680/efe8a160-4264-45d1-abde-9de7c7bc5b3f">
 <img width="1799" alt="Screenshot 2024-05-24 at 15 32 31" src="https://github.com/mandarrele/Object-Detection-Tracking-Face-Recognition/assets/92326680/048c5a6b-223f-4244-8974-ce9810fa7a78">
